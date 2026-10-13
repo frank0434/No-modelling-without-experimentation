@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+scipy
+pcse
+nlopt
+SALib
+PyYAML
+openpyxl
